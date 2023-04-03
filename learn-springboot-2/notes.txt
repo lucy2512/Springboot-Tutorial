@@ -1,0 +1,6 @@
+JAR file location
+Building jar: C:\Users\PARTHIB SARKAR\Documents\Spring\learn-springboot-2\target\learn-springboot-2-0.0.1-SNAPSHOT.jar
+
+
+for a particular actuator = 
+management.endpoints.web.exposure.include=health,metrics
