@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 
 import com.parthib.springboot3.learnjpaandhibernate.course.Course;
 import com.parthib.springboot3.learnjpaandhibernate.course.jpa.CourseJpaRepository;
+import com.parthib.springboot3.learnjpaandhibernate.course.springdatajpa.CourseSpringDataJpaRepository;
 
 @Component
 public class CourseCommandLineRunner implements CommandLineRunner {
